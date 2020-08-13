@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Joy
 
 ### About me
--Blog: [My Github Blog]:https://joyleea.github.io/
+-Blog: [My Github Blog](https://joyleea.github.io/)
 
 [![Joy's github stats](https://github-readme-stats.vercel.app/api?username=JoyLeeA)](https://github.com/anuraghazra/github-readme-stats)
 <!--
